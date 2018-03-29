@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZ-Finance", "EZ-Finance\EZ-Finance.csproj", "{92DE6EA1-8C03-4A06-9E1F-9695D7DB65BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DE6EA1-8C03-4A06-9E1F-9695D7DB65BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DE6EA1-8C03-4A06-9E1F-9695D7DB65BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DE6EA1-8C03-4A06-9E1F-9695D7DB65BF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DE6EA1-8C03-4A06-9E1F-9695D7DB65BF}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
